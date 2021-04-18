@@ -1,0 +1,4 @@
+github.com/jakejarvis/hugo-mod-twemoji v0.2.1 h1:OS3Xre4YfCKHYkpR1ijXiY+rovAPJy7dZ6JGzJkHXZM=
+github.com/jakejarvis/hugo-mod-twemoji v0.2.1/go.mod h1:YIzh5oA1aahHF75SamtOJa4FammbpSt+w2MjFKfmb44=
+github.com/twitter/twemoji v13.0.1+incompatible h1:w1epB4MnDMK11c0jBmCNuVQtRJfRddHm2+gx3z7bmGM=
+github.com/twitter/twemoji v13.0.1+incompatible/go.mod h1:06L6PdKuWDx/Yh6s4B7yGkAeBmWZzbFZgfNnWlJPPYM=
