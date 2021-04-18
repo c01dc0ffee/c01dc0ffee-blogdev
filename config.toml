@@ -5,6 +5,7 @@ theme = "accessible-minimalism"
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
 enableEmoji = true
+twemoji = true
 
 [menu]
   [[menu.main]]
