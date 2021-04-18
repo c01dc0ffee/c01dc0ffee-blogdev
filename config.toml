@@ -4,6 +4,7 @@ title = "c01dc0ffee.github.io"
 theme = "accessible-minimalism"
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
+enableEmoji = true
 
 [menu]
   [[menu.main]]
