@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://c01dc0ffee.github.io/"
 languageCode = "en-us"
-title = "Accessible Minimalism"
+title = "c01dc0ffee.github.io"
 theme = "accessible-minimalism"
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
