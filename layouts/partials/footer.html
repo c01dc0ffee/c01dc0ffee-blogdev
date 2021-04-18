@@ -17,4 +17,6 @@
 {{ partial "katlex.html" . }}
 {{ end }}
 
+{{ if or .Params.twemoji .Site.Params.twemoji }}
 {{ partial "twemoji.html" . }}
+{{ end }}
